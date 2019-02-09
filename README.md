@@ -10,7 +10,9 @@
 *Allows players to review a game’s history and see previous versions of a game’s board.
 
 ## Quick Start
-npm run start
+###npm run start
+
+<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
