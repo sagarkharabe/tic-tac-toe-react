@@ -10,7 +10,7 @@
 *Allows players to review a game’s history and see previous versions of a game’s board.
 
 ## Quick Start
-###npm run start
+### `npm run start`
 
 <br>
 
