@@ -1,5 +1,6 @@
 # Tic Tac Toe Game in Reactjs
 > Features --
+
 *Lets you play tic-tac-toe,
 
 *Indicates when a player has won the game,
